@@ -1,5 +1,5 @@
 //Longtin Hang
-//Tic-Tic-Toe game vs. computer
+//Tic-Tic-Toe player vs. computer
 
 #include<iostream>
 #include"graph1.h"
