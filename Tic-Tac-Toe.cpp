@@ -78,16 +78,14 @@ int* displayTicTacToe(int* tempXCoords, int* tempYCoords)
 
 		//convert int to string
 		fn = to_string(h) + ".png";
-
+		h++;
+		
 		//display the numbers
 		objects[i] = displayPNG(fn, 190 + (100 * k), 0 + (100 * j));
 
 		//store coords
 		tempXCoords[i] = 190 + (100 * (k++));
 		tempYCoords[i] = 0 + (100 * j);
-
-		//increment file number
-		h++;
 	}
 
 	return objects;
