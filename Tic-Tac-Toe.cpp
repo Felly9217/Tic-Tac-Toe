@@ -1,5 +1,6 @@
 //Longtin Hang
 //Tic-Tic-Toe player vs. computer
+//Numbers.zip is need to run
 
 #include<iostream>
 #include"graph1.h"
