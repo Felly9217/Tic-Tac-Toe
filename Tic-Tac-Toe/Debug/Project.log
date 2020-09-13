@@ -1,0 +1,5 @@
+﻿  Tic-Tac-Toe.cpp
+graphLib2017.lib(BMPLoader.obj) : warning LNK4099: PDB 'graphLib2017.pdb' was not found with 'graphLib2017.lib(BMPLoader.obj)' or at 'C:\Users\Longtin\Desktop\Porfolio\Project\Debug\graphLib2017.pdb'; linking object as if no debug info
+graphLib2017.lib(example2.obj) : warning LNK4099: PDB 'graphLib2017.pdb' was not found with 'graphLib2017.lib(example2.obj)' or at 'C:\Users\Longtin\Desktop\Porfolio\Project\Debug\graphLib2017.pdb'; linking object as if no debug info
+graphLib2017.lib(loadPng.obj) : warning LNK4099: PDB 'graphLib2017.pdb' was not found with 'graphLib2017.lib(loadPng.obj)' or at 'C:\Users\Longtin\Desktop\Porfolio\Project\Debug\graphLib2017.pdb'; linking object as if no debug info
+  Project.vcxproj -> C:\Users\Longtin\Desktop\Porfolio\Project\Debug\Project.exe
