@@ -1,6 +1,6 @@
 # Tic-Tac-Toe, Player vs Computer<br />
 C++ <br />
-This program was built in Visual Studio 2017<br />
+This program was built in Visual Studio 2017. This program will not run in another version of Visual Studio<br />
 You will need to install glut-3.7.6-bin.zip on to your system<br />
 glut-3.7.6-bin.zip https://github.com/Felly9217/Tic-Tac-Toe/blob/master/glut-3.7.6-bin.zip?raw=true<br />
 Instruction on how to install glut https://github.com/Felly9217/Tic-Tac-Toe/blob/master/glutInstallation2019.docx?raw=true<br />
