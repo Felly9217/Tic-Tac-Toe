@@ -9,4 +9,4 @@ I built this program during my Computer Science 2 class.
 I wanted to test out my coding ability, so I decided to create something simple.
 This Tic-Tac-Toe uses glut to display images to a window.
 
-![Screenshots for portfolio](tictactoe.PNG)
+![Screenshots](https://github.com/Felly9217/Tic-Tac-Toe/blob/master/Screenshots%20for%20portfolio/tictactoe.PNG)
