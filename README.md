@@ -10,3 +10,4 @@ I wanted to test out my coding ability, so I decided to create something simple.
 This Tic-Tac-Toe uses glut to display images to a window.
 
 ![Screenshots](https://github.com/Felly9217/Tic-Tac-Toe/blob/master/Screenshots%20for%20portfolio/tictactoe.PNG)
+![Screenshots](https://github.com/Felly9217/Tic-Tac-Toe/blob/master/Screenshots%20for%20portfolio/tictactoe2.PNG)
